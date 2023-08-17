@@ -75,20 +75,20 @@ The website & demo portal for uploading images (& videos) for defect detection o
 
 ## [Demo Video](https://youtu.be/WidWyng9FWc)
 
-## Reports
+<!-- ## Reports
 
 - [Proposal](./reports/1_ProjectProposal.pdf)
 - [Project Planning](./reports/2_ProjectPlanning.pdf)
 - [Conceptual Design](./reports/3_ConceptualDesignReport.pdf)
 - [Model Training & Testing Report](./reports/4_ModelTraining&TestingReport.pdf)
-- [Unit Testing Report](./reports/5_UnitTestingReport.pdf)
+- [Unit Testing Report](./reports/5_UnitTestingReport.pdf) -->
 
 
-## Marketing & Demonstration
+<!-- ## Marketing & Demonstration
 
 - [Product Brochure](./brochure.pdf)
 - [Marketing Video](./client/assets/marketing_video.mp4)
-- [User Manual](./user_manual.pdf) 
+- [User Manual](./user_manual.pdf) -->
 
 <!-- ## Future Direction
 
